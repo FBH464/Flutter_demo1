@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796466729462",
+    "firebase_url": "https://uniandesflutter-ded9e.firebaseio.com",
+    "project_id": "uniandesflutter-ded9e",
+    "storage_bucket": "uniandesflutter-ded9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796466729462:android:fde6b75af22f787627f7d7",
+        "android_client_info": {
+          "package_name": "com.example.fluuterdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796466729462-rg2l58hrtpeh5a5hsdvabiov66e3n1be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIW9GdrGe4KJR8F9TIxMCqf-yDtVlAPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796466729462-rg2l58hrtpeh5a5hsdvabiov66e3n1be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
